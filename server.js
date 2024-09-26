@@ -7,7 +7,7 @@ const bot = new Telegraf(TOKEN);
 const express = require("express");
 const app = express()
 app.use(express.json())
-const web_link = "https://kvants.vercel.app";
+const web_link = "https://kvantas-firebase-app.vercel.app";
 const community_link = "https://t.me/iarsalmumtaz";
 
 
